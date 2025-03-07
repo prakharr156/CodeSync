@@ -61,8 +61,8 @@ footer a {
 
 .joinBtn,
 .leaveBtn {
-    /* background: #4aed88; */
-    background:rgb(37, 38, 81);
+    background: #4aed88;
+    /* background:rgb(37, 38, 81); */
     width: 100px;
     margin-left: auto;
 }
