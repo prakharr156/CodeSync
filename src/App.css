@@ -62,8 +62,8 @@ footer a {
 .joinBtn,
 .leaveBtn {
     /* background: #4aed88; */
-    /* background:rgb(240, 18, 18); */
-    background:rgb(190, 123, 0);
+    background:rgb(240, 18, 18);
+    /* background:rgb(190, 123, 0); */
     width: 100px;
     margin-left: auto;
 }
